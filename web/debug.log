@@ -1,0 +1,4 @@
+[1026/135813.992:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: O pipe foi finalizado. (0x6D)
+[1026/140029.314:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: O pipe foi finalizado. (0x6D)
+[1026/141704.582:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: O pipe foi finalizado. (0x6D)
+[1028/112915.229:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: O pipe foi finalizado. (0x6D)

@@ -1,0 +1,23 @@
+html,body{
+    margin: auto;
+    padding: auto;
+}
+
+.nav{
+    background-color:#0D0D0D;
+    color: #F2AB27;
+}
+.nav a{
+   text-decoration: none;
+   display: inline-block;
+   
+}
+.nav ul{
+    list-style: none;   
+}
+.nav ul li{
+    padding: 10px;
+    display: inline;
+    color:#F2AB27;
+}
+
